@@ -1,0 +1,2 @@
+def friend():
+  pring("F")
