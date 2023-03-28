@@ -1,2 +1,5 @@
+#Ramith Wijesinghe
+#117481457
+
 def friend():
-  pring("F")
+  print("Friends Message fixed")
